@@ -10,3 +10,6 @@ NRP: 5025211036
 
 Nama: Clarissa Luna Maheswari\
 NRP: 5025211003
+
+Nama: Sandhika Surya Ardyanto\
+NRP: 5025211022
